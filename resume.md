@@ -35,7 +35,7 @@ June 2019 - August 2019
 Created a tool in the Google Earth Engine JavaScript platform to study surface mining land disturbance and reclamation.
 * Processed and analyzed Landsat 5/7/8 and Sentinel-2 satellite data
 * Led the design of land monitoring software development
-••* Integrated tasseled cap and NDVI methodology into the script
+* Integrated tasseled cap and NDVI methodology into the script
 
 Skills
 ------
