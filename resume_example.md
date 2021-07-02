@@ -23,11 +23,11 @@ Experience
 September 2020 - Present
 
 > Leading the Geoinformatics and Communications element teams and supporting both DEVELOP National Program Office and NASA Applied Sciences Program tasks. 
-> * Providing technical support to teams across 11 DEVELOP nodes, organizing and teaching training workshops and tutorials, reviewing, curating, and disseminating code deliverables
+> * Providing technical support to teams across 11 DEVELOP nodes, organizing and teaching training workshops and tutorials, reviewing, curating, and disseminating code and other deliverables
 >    * Increased engagement and capacity of Software Carpentry workshops by 57% and added 2 intermediate course offerings for participants
 >    * Initiated implementation of an internal GitLab server and oversaw the transition of the DEVELOP codebase from Google Drive into GitLab
-> * COMM STUFF, ALUMNI
->    * ANY SUBPOINT?
+> * Editing social media, blog posts, and writing annual newsletter to engage alumni and the public
+> * Creating, planning, and running Professional DEVELOPment Week to increase participants' capacity and skill-building opportunities in a virtual environment
 
 **Project Lead**, NASA DEVELOP National Program | Science Systems & Applications, Inc.  
 *NASA Jet Propulsion Laboratory*  
@@ -51,27 +51,12 @@ June 2019 - August 2019
 Skills
 ------
 
-**_Communication_**
-* Public speaking
-* Writing reports
-* Data presentation
+* **Communication:** Leadership, management, public speaking, writing reports, presenting data
+* **Programs and Platforms:** Google Earth Engine, SPSS, GitHub, GitLab, AGOL, ArcGIS Pro, Microsoft Office, MailChimp
+* **Programming Languages:** `R`, `JavaScript`, `Git`, `Python`, `Bash`, `Julia`, `LaTeX `, `Markdown`
 
-**_Technological_**
-* Microsoft Office
-* Google Earth Engine
-* SPSS
-
-**_Programming Languages_**
-* **R:** Have written geospatial analysis scripts and financial reports in R. 
-Taught introduction to R lessons.
-* **JavaScript:** Created two analysis tools using JavaScript in Google Earth Engine.
-* Basic knowledge of **Python**, **Git**, **Julia**, **LaTeX**, **Markdown**
 
 Certifications
 --------------
-**Software Carpentry Certified Instructor**, December 2020 - Present  
-> Certified to teach introductory lessons in:
-> * R
-> * Python
-> * Git
-> * Bash
+**[Software Carpentry Certified Instructor](https://carpentries.org/instructors/)**, December 2020 - Present  
+* Certified to teach lessons in: `R`, `Python`, `Git`, `Bash`
